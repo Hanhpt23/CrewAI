@@ -42,4 +42,8 @@ os.environ["OPENAI_API_KEY"] = api_key
 ### 5. **Run the Multi-Agent System**  
 ```bash
 crewai run
+
+or 
+python single_agent.py
+python vision_agent.py
 ```
